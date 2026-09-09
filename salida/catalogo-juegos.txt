@@ -1,0 +1,7 @@
+CATÁLOGO DE JUEGOS 
+    ================
+    Cantidad de juegos: 4
+    Valheim|2021|Coffee Stain Publishing| rango de jugadores:1-10
+Bus Simulator 27|2026|astragon Entertainment| rango de jugadores:1-4
+NBA 2K27|2026|2K| rango de jugadores:1-10
+Marsupilami: Hoobadventure|2021|Microids| rango de jugadores:1-1

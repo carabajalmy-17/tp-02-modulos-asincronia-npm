@@ -1,0 +1,57 @@
+[
+    {
+        "titulo": "Valheim",
+        "editorial": "Coffee Stain Publishing",
+        "anio": 2021,
+        "jugadoresMin": 1,
+        "jugadoresMax": 10,
+        "categorias": [
+            "Acción",
+            "Aventura",
+            "Supervivencia",
+            "Mundo abierto",
+            "Rol"
+        ],
+        "disponible": true
+    },
+    {
+        "titulo": "Bus Simulator 27",
+        "editorial": "astragon Entertainment",
+        "anio": 2026,
+        "jugadoresMin": 1,
+        "jugadoresMax": 4,
+        "categorias": [
+            "Simulación",
+            "Conducción",
+            "Mundo abierto",
+            "Gestión"
+        ],
+        "disponible": true
+    },
+    {
+        "titulo": "NBA 2K27",
+        "editorial": "2K",
+        "anio": 2026,
+        "jugadoresMin": 1,
+        "jugadoresMax": 10,
+        "categorias": [
+            "Deportes",
+            "Baloncesto",
+            "Simulación"
+        ],
+        "disponible": true
+    },
+    {
+        "titulo": "Marsupilami: Hoobadventure",
+        "editorial": "Microids",
+        "anio": 2021,
+        "jugadoresMin": 1,
+        "jugadoresMax": 1,
+        "categorias": [
+            "Acción",
+            "Aventura",
+            "Plataformas"
+        ],
+        "disponible": true
+    }
+]
